@@ -1,0 +1,286 @@
+{
+    "protocols_by_version": {
+      "Version1": [
+        "42",
+        "52",
+        "58",
+        "59",
+        "5f",
+        "61",
+        "63",
+        "66",
+        "67",
+        "68",
+        "69",
+        "71",
+        "74",
+        "76",
+        "77",
+        "7c",
+        "7d",
+        "7e",
+        "7f",
+        "87",
+        "8a",
+        "8c",
+        "8d",
+        "8e",
+        "8f",
+        "9a",
+        "55",
+        "9d",
+        "62",
+        "de",
+        "78",
+        "53",
+        "9e",
+        "79",
+        "5a",
+        "51",
+        "49",
+        "f6",
+        "f5",
+        "5b"
+      ],
+      "Version2": [
+        "42",
+        "52",
+        "56",
+        "57",
+        "58",
+        "59",
+        "74",
+        "76",
+        "77",
+        "7c",
+        "7d",
+        "8a",
+        "8c",
+        "8d",
+        "8e",
+        "8f",
+        "9a",
+        "55",
+        "9d",
+        "9e",
+        "79",
+        "5a",
+        "51",
+        "49",
+        "f6",
+        "f5",
+        "5b"
+      ]
+    },
+    "Protocols": {
+      "42": {
+        "fps": 36,
+        "dynamic": false,
+        "specific_size": 184
+      },
+      "9d": {
+        "fps": 9,
+        "dynamic": true
+      },
+      "f5": {
+        "fps": 9,
+        "dynamic": true
+      },
+      "d9": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "51": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "55": {
+        "fps": 9,
+        "dynamic": false
+      },
+      "9f": {
+        "fps": 9,
+        "dynamic": false
+      },
+      "8f": {
+        "fps": 18,
+        "dynamic": true
+      },
+      "69": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "61": {
+        "fps": 9,
+        "dynamic": false
+      },
+      "5f": {
+        "fps": 9,
+        "dynamic": true
+      },
+      "63": {
+        "fps": 9,
+        "dynamic": false
+      },
+      "65": {
+        "fps": 9,
+        "dynamic": false
+      },
+      "8a": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "52": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "68": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "59": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "71": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "76": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "77": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "7c": {
+        "fps": 18,
+        "dynamic": false
+      },
+      "7e": {
+        "fps": 18,
+        "dynamic": true
+      },
+      "7f": {
+        "fps": 18,
+        "dynamic": true
+      },
+      "7d": {
+        "fps": 18,
+        "dynamic": true
+      },
+      "49": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "9a": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "74": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "56": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "8d": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "8e": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "8c": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "58": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "87": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "57": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "66": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "67": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "f6": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "de": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "62": {
+        "fps": 9,
+        "dynamic": true
+      },
+      "78": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "5b": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "53": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "79": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "9e": {
+        "fps": 9,
+        "dynamic": true
+      },
+      "5a": {
+        "fps": 36,
+        "dynamic": true
+      },
+      "6a": {
+        "fps": 9,
+        "dynamic": false
+      },
+      "e3": {
+        "fps": 18,
+        "dynamic": false
+      },
+      "6b": {
+        "fps": 18,
+        "dynamic": false
+      },
+      "93": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "94": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "97": {
+        "fps": 36,
+        "dynamic": false
+      },
+      "96": {
+        "fps": 36,
+        "dynamic": false
+      }
+    }
+}
