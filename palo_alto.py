@@ -16,10 +16,10 @@ class Deck:
     SUITS = ['HEART', 'CLUB', 'DIAMOND', 'SPADE']
 
     def __init__(self):
-        self.deck: list[Card] = []
+        self.deck= []
         for cart in self.SUIT_LIST:
             for suit in self.SUITS:
-                self.deck.append(Card(cart, suit))
+                self.deck.append((cart, suit))
 
     def __str__(self):
         return str(self.deck)
@@ -34,9 +34,9 @@ class Deck:
 
     def take_card(self):
         card = self.__random_card()
-        # print(card)
+        print(card)
         if card != 'Empty':
-            self.deck.remove(Card(card.rank, card.suit))
+            self.deck.remove(card)
         else:
             print('The deck is empty')
 

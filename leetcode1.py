@@ -197,7 +197,7 @@
 #             return len(l1) + 1
 #         return len(l1)
 #
-# print(Solution().partitionString("ab"))
+# print(Solution().partitionString("ab cv"))
 
 # class Solution:
 #     def merge(self, nums1: list[int], m: int, nums2: list[int], n: int) -> None:
@@ -365,4 +365,4 @@
 #             sum = sum // 10
 #         return count
 #
-# print(Solution().trailingZeroes(30))
+# print(Solution().trailingZeroes(3))

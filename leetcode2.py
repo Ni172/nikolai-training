@@ -94,3 +94,37 @@
 #         return int(bin_number_32bit[::-1],2)
 #
 # print(Solution().reverseBits(43261596))
+
+# class Solution:
+#     def reverse(self, x: int) -> int:
+#         new_reverse = ''
+#
+#         for i in (reversed(str(x))):
+#             if str(x)[-1] == i and i == '0':
+#                 pass
+#             if i == '-':
+#                 new_reverse = i + new_reverse
+#             else:
+#                 new_reverse += i
+#         if -2**31 < int(new_reverse) < 2**31-1:
+#             return int(new_reverse)
+#         return int(new_reverse)
+#
+# print(Solution().reverse(-1230))
+
+# Apple
+# def solution(s):
+#
+#     temp = ''
+#     new_string = ''
+#     for i in range(len(s)):
+#         if s[i].isalpha():
+#             new_string += int(temp) * s[i]
+#             temp = ''
+#         else:
+#             temp += s[i]
+#     return new_string
+#
+#
+# print(solution('3A11B22V'))
+
